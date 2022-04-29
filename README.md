@@ -1,4 +1,4 @@
-Live Demo : https://react-movie-app-self-six.vercel.app/
+Live Demo : https://movieapp-lovat.vercel.app/
 
 # Getting Started with Create React App
 
